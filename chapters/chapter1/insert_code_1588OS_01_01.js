@@ -1,7 +1,7 @@
 var definitionObject = {
   restrict: 'EA',
   link: function(scope, element, attrs){
-    element.text('Hello Directive World');
+    element.text('Hello World');
   }
 };
 
